@@ -1,6 +1,7 @@
-{"song-album":{
+[
 
-  "Acid Rap":[
+  {
+    "Album":"Acid Rap", "Songs":[
     "Did a ton of drugs and did better than all my Alma mater",
     "Lean all on the square, That's a fuckin' rhombus",
     "I got the Chicago Blues, We invented rock before the Stones got through",
@@ -16,19 +17,19 @@
     "I see his demons in empty hallways",
     "Damn that acid burn when it clean ya, I still miss being a senior",
     "God give me one sentence more Maybe I just gotta get suspended more? Hash tag it, get mentions for it Make you love it, get it trending more"
-  ],
+  ]},
 
-  "10 day":[
+  {"Album":"10 day","Songs":[
     "hey"
-  ],
+  ]},
 
-  "Surf":[
+  {"Album":"Surf","Songs":[
     "hi","acid rapper"
-  ],
+  ]},
 
-  "As featured Rapper":[
+  {"Album":"As featured Rapper","Songs":[
 
-  ]
-}
+  ]}
 
-}
+
+]

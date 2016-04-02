@@ -1,10 +1,31 @@
-/*@font-face {
-    font-family: Chance;
-    src: url("delarge.tff");
-}*/
 html{
-    font-family: sans-serif;
+    font-family: 'Noto Sans',sans-serif;
+    height: 100%;
+    cursor: crosshair;
 }
-.container {
+.content {
+    height: 100vh;
+}
+.chance-container {
     text-align: center;
+    color: rgb(255, 255, 255);
+    top: 50%;
+    width: 90%;
+    left: 50%;
+    -moz-transform: translateY(-50%) translateX(-50%);
+    -webkit-transform: translateY(-50%) translateX(-50%);
+    -o-transform: translateY(-50%) translateX(-50%);
+    transform: translateY(-50%) translateX(-50%);
+    position: absolute;
+    /*display: block;
+    margin-left: auto;
+    margin-right: auto;*/
+}
+.lyrics {
+    white-space: pre-wrap;
+    text-transform: uppercase;
+}
+#lyric,#album,#song{
+    background: rgba(0,0,0,0.6);
+    /*opacity: 0.8;*/
 }

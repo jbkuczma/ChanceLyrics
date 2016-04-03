@@ -25,7 +25,7 @@ html{
     white-space: pre-wrap;
     text-transform: uppercase;
 }
-#lyric,#album,#song{
+#lyric,#album,#song,#comma{
     background: rgba(0,0,0,0.6);
     /*opacity: 0.8;*/
 }

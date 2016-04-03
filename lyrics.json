@@ -1,23 +1,20 @@
 [
-
   {
-    "Album":"Acid Rap", "Songs":[
-    "Did a ton of drugs and did better than all my Alma mater",
-    "Lean all on the square, That's a fuckin' rhombus",
-    "I got the Chicago Blues, We invented rock before the Stones got through",
-    "Skeet, skeet, skeet, She do that thing for three retweets",
-    "I trip to make the fall shorter",
-    "And why’s God's phone die every time that I call on Him, If his son had a Twitter, wonder if I would follow him",
-    "What’s good, good? And what’s good, evil? And what’s good, gangstas? And what’s good, people?",
-    "Where the fuck is Matt Lauer at? Somebody get Katie Couric in here",
-    "Why you think they don’t talk about it? They deserted us here",
-    "Probably scared of all the refugees; look like we had a fuckin' hurricane here",
-    "What's better than followers is actually fallin' in love",
-    "Cigarette stained smile all covered in sin, My big homie died young, just turned older than him",
-    "I see his demons in empty hallways",
-    "Damn that acid burn when it clean ya, I still miss being a senior",
-    "God give me one sentence more Maybe I just gotta get suspended more? Hash tag it, get mentions for it Make you love it, get it trending more"
-  ]},
+    "Album":"Acid Rap", "Songs":{
+    "Good Ass Intro":["Did a ton of drugs and did better than all my Alma mater"],
+    "Pusha Man/Paranoia":["Where the fuck is Matt Lauer at? Somebody get Katie Couric in here","Why you think they don’t talk about it? They deserted us here","Probably scared of all the refugees; look like we had a fuckin' hurricane here"],
+    "Cocoa Butter Kisses":["a","b","c"],
+    "Juice":["God give me one sentence more Maybe I just gotta get suspended more? Hash tag it, get mentions for it Make you love it, get it trending more"],
+    "Lost":["a","b","c"],
+    "Everybody's Something":["I got the Chicago Blues, We invented rock before the Stones got through","And why’s God's phone die every time that I call on Him, If his son had a Twitter, wonder if I would follow him","What’s good, good? And what’s good, evil? And what’s good, gangstas? And what’s good, people?"],
+    "Interlude (That's Love)":["What's better than followers is actually fallin' in love"],
+    "Favorite Song":["Skeet, skeet, skeet, She do that thing for three retweets"],
+    "NaNa":["a","b","c"],
+    "Smoke Again":["Lean all on the square, That's a fuckin' rhombus"],
+    "Acid Rain":["I trip to make the fall shorter","Cigarette stained smile all covered in sin, My big homie died young, just turned older than him","I see his demons in empty hallways","Damn that acid burn when it clean ya, I still miss being a senior"],
+    "Chain Smoker":["a","b","c"],
+    "Everything's Good (Good Ass Outro)":["a","b","c"]
+  }},
 
   {"Album":"10 day","Songs":[
     "hey"

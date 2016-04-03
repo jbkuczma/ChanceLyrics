@@ -2,9 +2,14 @@ function assignInfo(){
     $.getJSON('lyrics.json',function(data){
         var albumSelected = data[Math.floor(Math.random() * data.length)];
         var ran = Math.floor(Math.random() * albumSelected["Songs"].length);
-        var lyric = albumSelected["Songs"][ran];
+        var possibleSongs = albumSelected["Songs"];
+        var ran2 = Math.floor(Math.random() * Object.keys(possibleSongs).length);
+        var song = Object.keys(possibleSongs)[ran2];
+        var ranLyric = Math.floor(Math.random() * possibleSongs[song].length);
+        var lyric = possibleSongs[song][ranLyric];
         var album = albumSelected["Album"];
         document.getElementById('lyric').innerHTML = lyric;
+        document.getElementById('song').innerHTML = song;
         document.getElementById('album').innerHTML = album;
     })
 }

@@ -8,9 +8,13 @@ function assignInfo(){
         var ranLyric = Math.floor(Math.random() * possibleSongs[song].length);
         var lyric = possibleSongs[song][ranLyric];
         var album = albumSelected["Album"];
-        document.getElementById('lyric').innerHTML = lyric;
-        document.getElementById('song').innerHTML = song;
-        document.getElementById('album').innerHTML = album;
+        // document.getElementById('lyric').innerHTML = lyric;
+        // document.getElementById('song').innerHTML = song;
+        // document.getElementById('album').innerHTML = album;
+        //for my own knowledge. above(pure JS) does exactly the same as below(JQuery)
+        $('#lyric').html(lyric);
+        $('#album').html(album);
+        $('#song').html(song);
     })
 }
 

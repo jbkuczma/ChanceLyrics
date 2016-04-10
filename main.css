@@ -2,6 +2,9 @@ html{
     font-family: 'Noto Sans',sans-serif;
     height: 100%;
     cursor: crosshair;
+    -webkit-user-select: none; /* Chrome/Safari */
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE10+ */
 }
 .content {
     height: 100vh;

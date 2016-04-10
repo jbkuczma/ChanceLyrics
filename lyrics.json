@@ -1,6 +1,5 @@
 [
-  {
-    "Album":"Acid Rap", "Songs":{
+    {"Album":"Acid Rap", "Songs":{
     "Good Ass Intro":["Rap's just make me anxious, and acid made me crazy","Get a watch with all that glitters, come in clutters, different colors","Ben-a-Baller, Benford, butlers, chauffeurs, hit a stain-er, did I stutter?","Did a ton of drugs and did better than all my Alma mater","Keep a tab on my exes, keep some 'x' on my tongue, Keep my work out in Texas, that's just me flexing my lungs","Call me Chancelor The Rapper, please say 'The Rapper'"],
     "Pusha Man/Paranoia":["Ten damn days... And all I got to show for it is shoes and shows and chauffeurs with road rage","Paranoia on my mind, got my mind on the fritz","Somebody'll steal daddy's Rollie, call it the neighborhood watch","Where the fuck is Matt Lauer at? Somebody get Katie Couric in here","Why you think they don’t talk about it? They deserted us here","Probably scared of all the refugees; look like we had a fuckin' hurricane here","They'll be shooting whether it's dark or not, I mean, the days is pretty dark a lot"],
     "Cocoa Butter Kisses":["Cigarettes on cigarettes my mama think I stank, I got burn holes in my hoodies, all my homies think it's dank","I miss my cocoa butter kisses","If I sip any Henny, my belly just might be outie","Tonight she just yelling 'fuck me', Two weeks she'll be yelling fuck me","Used to like orange cassette tapes with Timmy, Tommy, and Chuckie","Put Visine inside my eyes so my grandma would fucking hug me"],
@@ -23,52 +22,44 @@
       "Windows":["This is six blunt rotation music, This is just got off six month probation music, This is steppin' on the beach when you're too drunk to feel a beat, This that laughing in a condo throwin' shit down in the street","This for every math class that I ever had, So fuck you if I failed and fuck you if I passed!"],
       "Brain Cells":["You’re the plastic, I’m the passion and the magic in the air","I should rhyme rhyme with Ramen Noodles"],
       "Long Time":["I saw your reflection in a toilet full of vomit water"],
-      "22 Offs":[],
-      "U Got Me Fucked Up":[],
-      "Family":[],
-      "Juke Juke":[],
-      "Fuck You Tahm Bout":[],
+      "22 Offs":["They gave me 10 Days off, That's an awful lot"],
+      "U Got Me Fucked Up":["Adidas influence Nike I do's it","Sentence so gavel, wordplay so scrabble"],
+      "Family":["Sing all you want, just don't Drake on they ass","Shore you got drive, don't turn fake on they ass"],
+      "Juke Juke":["'Scuse my french, my lingo, But I no hable cinco, Her girlfriends say they bout it, you know that I'm bilingual","Cause this that new 'New Workout Plan'"],
+      "Fuck You Tahm Bout":["Don't ask me for no I.D., bitch I fucking signed out"],
       "Long Time II":["Long time to get famous life's whatever you make it, Just thank god that we made it"],
-      "Prom Night":[],
-      "Hey Ma":[]
+      "Prom Night":["Graduation night teachers Ferris Bueller'd my name","You made a mixtape? Good job, I hope you get a good job","Don't call it impossible if you really want that","Look at your business tux all night airplane, Go and get your racist on all white everything","You deserve a Ferrari and a matching tiara and a hand to wipe away all that running mascara"],
+      "Hey Ma":["God just gave me another chance","7-7-3 Oh, since Kanye was a three-old, Down the street from D. Rose was practicing his free-throws"]
   }},
 
-  {"Album":"Surf","Songs":{
-    "Miracle":[],
-    "Slip Slide":[],
-    "Warm Enough":[],
-    "Wanna Be Cool":[],
-    "Windows":[],
-    "Caretaker":[],
-    "Just Wait":[],
-    "Familiar":[],
-    "SmthnthtIwnt":[],
-    "Go":[],
-    "Questions":[],
-    "Rememory":[],
-    "Sunday Candy":[]
+  {"Album":"Surf (as featured Rapper)","Songs":{
+    "Miracle":["Not a pear in the world that the world wouldn't miss much as this"],
+    "Slip Slide":["It's just too easy to sit back down"],
+    "Warm Enough":["Who are you to tell me I can't love you","I could tell it’s knock knock when my heart beatbox"],
+    "Wanna Be Cool":["I don't wanna be cool, I just wanna be me"],
+    "Windows":["Trust me with ya body, trust me with ya life","Don't you end up like me if you learn one thing today"],
+    "Familiar":["One in a million but these bitches special"],
+    "Rememory":["Take a break when I break my leg, Save the day when I take her hand"],
+    "Sunday Candy":["I am the thesis of her prayers","I got a future so I'm singing for my grandma","I come to church for the candy your peppermints is the truth, I'm pessimistic on Monday if I had tweaked and missed you","You're my dreamcatcher, dream team, team captain"]
   }},
 
   {"Album":"Free (Based Freestyles)","Songs":{
-      "Last Dance":[],
-      "Whats Next":[],
-      "First Mixtape":[],
-      "Amen":[],
-      "Do My Dance":[],
-      "We Rare":[]
+      "Last Dance":["What's up? You thought it was a joke, Til I come in - hocus pocus, with the dopest","With my homie Lil B and half of my bands, We did it different than the Xans","They want me to go back to Acid, the basic shit that's just tasteless"],
+      "Whats Next":["We're making an entire piece of content from scratch","This is an allegory to life, and life is an allegory to this shit, I guess",""],
+      "First Mixtape":["They been tellin' me I need a gas mask just to rap as fast as Eminem back in '96"],
+      "Amen":["Simba is stuck in a jungle tonight"],
+      "Do My Dance":["Until we understand we untouchable, Then we can understand that it's a Lunchable"],
+      "We Rare":["You should see me in that rare thing, that shit is erry' thing","Viola, shorty play the violin","I like my shit uncooked, I like my shit just raw"]
   }}
 
   {"Album":"As featured Rapper","Songs":{
-      "They Don't Like Me":[],
-      "Wendy n Becky":[],
-      "You Song":[],
-      "Tweakin'":[],
-      "Friendship Heights":[],
-      "Iconic":[],
-      "Clean Up":[],
-      "Heaven Only Knows":[],
-      "Ultralight Beam":[]
+      "They Don't Like Me":["Eddy Scissorhands is workin' on my linin', Gettin' spiffy for these bitches I be eyeing","On the run because I got warrants, but it's cool I got endurance","In school I got suspended but in turn I got some earnings, Could've spent it all on Thursday but I saved it for my parents"],
+      "Wendy n Becky":["I paid the piper, the pickle she used to pick apart","Choke holdin my wine glass, rock bottomin' out","Thanking God he ain’t never make a plan B for me"],
+      "You Song":["You feel like Kool-Aid in a wine glass witchyo' fine ass","This is not a love song, This is a you song"],
+      "Tweakin'":["You should ask a snake where its legs go, but then again I'm smokin' on the medical","No songs with Kendrick, we just hang out"],
+      "Iconic":["Yellow brick highway, Paparazzi piled up on the high road","Madonna said I remind her of Michael","You an icon"],
+      "Heaven Only Knows":["If I drop it they gonna cop it I might start a non-for-profit","Sneak that rap, put a message in it's that sugary medicine","Jumping like checkers, clever like chess is, Smoking like purp is, perfect like Surf is, deeper than surface"],
+      "Confident":["Tattoos, piercings and she just learned to twerk, She ain't got a heart or an ass, just her brains","Gotta ask cause her ass on a learning curve, And she love to hurn the berb, I mean burn the word"],
+      "Ultralight Beam":["When they come for you, I will shield your name, I will field their questions, I will feel your pain","Foot on the Devil's neck 'til it drifted Pangaea, I'm moving all my family from Chatham to Zambia","Tryna snap photos of familia my daughter look just like Sia, you can't see her","You can feel the lyrics the spirit coming in braille, Tubman of the underground come and follow the trail, I made Sunday Candy I'm never going to hell, I met Kanye West I'm never going to fail","He said let's do a good ass job with Chance three, I hear you gotta sell it to snatch the Grammy, Let's make it so free and the bars so hard, That there ain't one gosh darn part you can't tweet"]
   }}
-
-
 ]

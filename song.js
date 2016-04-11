@@ -1,5 +1,5 @@
 function assignInfo(){
-    $.getJSON('lyrics.json',function(data){
+    $.getJSON('http://chancelyrics.surge.sh/lyrics.json',function(data){
         var albumSelected = data[Math.floor(Math.random() * data.length)];
         var ran = Math.floor(Math.random() * albumSelected["Songs"].length);
         var possibleSongs = albumSelected["Songs"];
@@ -30,7 +30,7 @@ $(function(){
 function backgroundImage(){
     var images = ['img0.png','img1.png','img2.png','img3.png','img4.png','img5.png',
     'img6.png','img7.png','img8.png','img9.png','img10.png','img11.png',
-    'img12.png','img13.png','img14.png frien'];
+    'img12.png','img13.png','img14.png'];
     $('body').css({
         'background-image': 'url(backgrounds/' + images[Math.floor(Math.random() *images.length)] + ')',
         'background-size': 'cover',
